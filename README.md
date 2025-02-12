@@ -1,2 +1,2 @@
 # daily_precip_rockies_usask
-Daily precipitation USask data corrected for snowfall undercatch for stations located in the Canadian Rockies.
+Daily precipitation data corrected for snowfall undercatch for stations located in the Canadian Rockies that belong to the University of Saskatchewan. Associated metadata per station is also made available. This data is a subset of the data available here (https://github.com/andrebertoncini/precip_uncertainty) that includes only the data originated from stations that belong to the University of Saskatchewan.
